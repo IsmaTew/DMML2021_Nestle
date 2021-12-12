@@ -21,22 +21,23 @@ We won't tell you more, just follow us on the adventure!
     I like boats, traveling, meeting new people and of course Data Mining!
     
     
-<img src='' width="150"> 
+<img src='data/IMG-0449.JPG' width="170"> 
  
 #### Karel Gloria Sidnomwendé Kaboré, user name:KKGS06, e-mail: karelgloriasidnomwende.kabore@unil.ch 
 
-- Nathalie Fröhlich, NFroehl, nathalie.frohlich@unil.ch 
+   
+    I am Karel Kaboré, I come from Burkina Faso (West Africa), but I am studying at Lyon. I am an exchange student like 
+    Alexandre, and we come from the same school and the same class.I like reading, traveling, and challenges!
+
+
+<img src='' width="170"> 
+
+#### Nathalie Fröhlich, user name:NFroehl, e-mail: nathalie.frohlich@unil.ch 
 
 
 **Challenges and Successes:**
 
 
-**Team Members:**
 
-Nathalie Froehlich 
 
-Alexandre Bonicel
 
-Karel Gloria Sidnomwendé Kaboré
-
-XXXXXXX
