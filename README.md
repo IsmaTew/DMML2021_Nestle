@@ -30,12 +30,15 @@ We won't tell you more, just follow us on the adventure!
     Alexandre, and we come from the same school and the same class.I like reading, traveling, and challenges!
 
 
-<img src='' width="170"> 
+<img src='data/WhatsApp Image 2021-12-12 at 19.01.02.jpeg' width="170"> 
 
 #### Nathalie Fröhlich, user name:NFroehl, e-mail: nathalie.frohlich@unil.ch 
 
 
-**Challenges and Successes:**
+
+
+
+### *Challenges and Successes:*<br><br>
 
 
 
