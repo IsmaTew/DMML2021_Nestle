@@ -21,7 +21,7 @@ We won't tell you more, just follow us on the adventure!
     I like boats, traveling, meeting new people and of course Data Mining!
     
     
- 
+<img src='' width="150"> 
  
 #### Karel Gloria Sidnomwendé Kaboré, user name:KKGS06, e-mail: karelgloriasidnomwende.kabore@unil.ch 
 
