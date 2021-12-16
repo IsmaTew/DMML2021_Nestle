@@ -44,5 +44,4 @@ We won't tell you more, just follow us on the adventure!
 | Precision           | xx.xxxx             | xx.xxxx          | xx.xxxx              | xx.xxxx             | xx.xxxx            |
 | Recall              | xx.xxxx             |xx.xxxx           | xx.xxxx              |xx.xxxx              |xx.xxxx             |
 | F1-Score            | xx.xxxx             |                  |                      |                     |                    |
-| Accuracy            | xx.xxxx             |
-| ------------------- | ------------------- |------------------| -------------------- |-------------------- |--------------------|
+| Accuracy            | xx.xxxx             |                  |                      |                     |                    |
