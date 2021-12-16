@@ -35,12 +35,17 @@ We won't tell you more, just follow us on the adventure!
 #### Nathalie Fröhlich, user name:NFroehl, e-mail: nathalie.frohlich@unil.ch 
 
 
-### *Challenges and Successes:*<br><br>
+### *Results obtained without cleaning:*<br><br>
 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+|                     | Logistic regression |       KNN        |   Decision Tree      |   Random Forest     |      Doc 2 Vec     |
+| ------------------- | ------------------- |----------------- | -------------------- |-------------------- | -------------------|
+| Precision           | xx.xxxx             | xx.xxxx          | xx.xxxx              | xx.xxxx             | xx.xxxx            |
+| ------------------- | ------------------- |------------------| -------------------- |-------------------- |--------------------|
+| Recall              | xx.xxxx             |xx.xxxx           | xx.xxxx              |xx.xxxx              |xx.xxxx             |
+| ------------------- | ------------------- |------------------| -------------------- |-------------------- |--------------------|
+| F1-Score            | xx.xxxx             |
+| ------------------- | ------------------- |------------------| -------------------- |-------------------- |--------------------|
+| Accuracy            | xx.xxxx             |
+| ------------------- | ------------------- |------------------| -------------------- |-------------------- |--------------------|
