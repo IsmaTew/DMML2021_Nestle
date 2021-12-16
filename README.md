@@ -42,10 +42,7 @@ We won't tell you more, just follow us on the adventure!
 |                     | Logistic regression |       KNN        |   Decision Tree      |   Random Forest     |      Doc 2 Vec     |
 | ------------------- | ------------------- |----------------- | -------------------- |-------------------- | -------------------|
 | Precision           | xx.xxxx             | xx.xxxx          | xx.xxxx              | xx.xxxx             | xx.xxxx            |
-| ------------------- | |
 | Recall              | xx.xxxx             |xx.xxxx           | xx.xxxx              |xx.xxxx              |xx.xxxx             |
-| ------------------- | 
 | F1-Score            | xx.xxxx             |                  |                      |                     |                    |
-| ------------------- |
 | Accuracy            | xx.xxxx             |
 | ------------------- | ------------------- |------------------| -------------------- |-------------------- |--------------------|
