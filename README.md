@@ -39,7 +39,7 @@ We won't tell you more, just follow us on the adventure!
 
 
 
-|                     | Logistic regression |       KNN        |   Decision Tree      |   Random Forest     |      Doc 2 Vec     |
+|                     | Logistic regression |       KNN        |   Decision Tree      |   Random Forest     |Doc2Vec with Log Reg|
 | ------------------- | ------------------- |----------------- | -------------------- |-------------------- | -------------------|
 | Precision           | 0.4430              | 0.3507           | 0.4229               |  0.4236             |  0.7506            |
 | Recall              | 0.4425              | 0.3462           | 0.3990               |  0.4277             |  0.7481            |
