@@ -37,7 +37,7 @@ We won't tell you more, just follow us on the adventure!
     My name is Nathalie Froehlich and I com from Lausanne. I am a first semester student in the Master Systèmes            
     d'Information in HEC at the University of Lausanne.
     
-### *Results obtained without cleaning:*<br><br>
+### *Results obtained (no data cleaning except for Doc2Vec):*<br><br>
 
 
 
