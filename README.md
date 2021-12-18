@@ -34,7 +34,9 @@ We won't tell you more, just follow us on the adventure!
 
 #### Nathalie Fröhlich, user name:NFroehl, e-mail: nathalie.frohlich@unil.ch 
 
-
+    My name is Nathalie Froehlich and I com from Lausanne. I am a first semester student in the Master Systèmes            
+    d'Information in HEC at the University of Lausanne.
+    
 ### *Results obtained without cleaning:*<br><br>
 
 
@@ -45,3 +47,7 @@ We won't tell you more, just follow us on the adventure!
 | Recall              | 0.4425              | 0.3462           | 0.3990               |  0.4277             |  0.7481            |
 | F1-Score            | 0.4366              | 0.3438           | 0.3967               |  0.4248             |  0.7486            |
 | Accuracy            | 0.4448              | 0.3479           | 0.4010               |  0.4313             |  0.7479            |
+
+### *Differents methods we tried:*<br><br>
+
+First, we try without any cleaning Logistic regression, KNN, Decision Tree and Random forest. We saw that Logistic regression was the best (slightly better than Random forest.) We tried TF-IDF with dimensionality reduction PCA and standardisation for the 4 methods (Logistic Regression, KNN, Decision Tree, Random forest) but nothing was conclusive. We tried as well two cleaners, namely Spacy and Nltk. Nltk was giving better results. We use Doc2Vec with the 4 methods as well. In the end, the most promising was Logistic Regression with Doc2Vec using Nltk.
